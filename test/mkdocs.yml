@@ -19,3 +19,23 @@ theme:
     code: Roboto Mono
     # 언어 설정
     language: ko
+  # 로고 이미지 삽입
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  # 내비게이션
+  features:
+    # - navigation.tabs
+    # - navigation.tabs.sticky
+  icon:
+    tag:
+      html: fontawesome/brands/html5
+      js: fontawesome/brands/js
+      css:  fontawesome/brands/css3
+plugins:
+  - search
+  - tags
+extra:
+  tags:
+    HTML5: html
+    JavaScript: js
+    CSS: css
