@@ -1,6 +1,6 @@
-# Welcome to MkDocs
+# Test page  
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This is test page for manual.
 
 ## Commands
 
