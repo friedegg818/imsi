@@ -1,4 +1,4 @@
-site_name: Test Page
+site_name: XDV Test Manual
 theme:
   name: material
   # 라이트/다크 모드 전환
@@ -30,7 +30,7 @@ theme:
     tag:
       html: fontawesome/brands/html5
       js: fontawesome/brands/js
-      css:  fontawesome/brands/css3
+      css: fontawesome/brands/css3
 plugins:
   - search
   - tags
