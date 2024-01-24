@@ -5,6 +5,6 @@
 - XDV를 실행합니다.
 
      <figure markdown>
-      ![XDV 홈화면](/assets/images/direction_image_01.png)
+      ![XDV 홈화면](assets/images/direction_image_01.png)
       <figcaption>XDV 홈화면</figcaption>
     </figure>

@@ -24,6 +24,7 @@ theme:
   favicon: assets/logo.png
   # 내비게이션
   features:
+    - navigation.tracking
     # - navigation.tabs
     # - navigation.tabs.sticky
   icon:
