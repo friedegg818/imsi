@@ -1,6 +1,7 @@
 # Test page  
 
-This is test page for manual.
+This is test page for manual.   
+XDV 매뉴얼 작성을 위한 테스트 페이지 입니다.
 
 ## Commands
 
