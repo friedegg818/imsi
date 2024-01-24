@@ -13,9 +13,9 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-  # 글꼴 설정 
+  # 글꼴 설정
   font:
     text: Nanum Gothic
     code: Roboto Mono
-  # 언어 설정
+    # 언어 설정
     language: ko
